@@ -1,5 +1,11 @@
 # Change Log
 
+## v0.9.6
+
+Update pyvmomi dependency from version 5.5.0 to 6.7.3
+Python 3 fixups
+Add explicit support for Python 2 and 3
+
 ## v0.9.5
 
 Updated host_get action to get all hosts if not are given. Added tests for action.
